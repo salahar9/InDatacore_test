@@ -1,0 +1,20 @@
+.progress {
+    height: 20px;
+    margin-top: 10px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    overflow: hidden;
+
+}
+
+.progress-bar {
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+}
+
+.green {
+    background-color: #064420 !important;
+
+}
