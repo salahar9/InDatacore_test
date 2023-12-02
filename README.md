@@ -1,7 +1,8 @@
 # InDatacore_test
 
 # front end 
-1- cd frontend/dataincore-frontend
-2- npm i 
-3- npm run dev
-
+*  cd frontend/dataincore-frontend
+*  npm i 
+  *  npm run dev
+# backend
+Veuillez noter que la documentation Swagger est accessible via le chemin /swagger-ui.html
